@@ -1,0 +1,15 @@
+C:\Users\Home\Desktop\4_1WPF_4_Evenement_Click\Evenement_Click\bin\Debug\Evenement_Click.exe.config
+C:\Users\Home\Desktop\4_1WPF_4_Evenement_Click\Evenement_Click\bin\Debug\Evenement_Click.exe
+C:\Users\Home\Desktop\4_1WPF_4_Evenement_Click\Evenement_Click\bin\Debug\Evenement_Click.pdb
+C:\Users\Home\Desktop\4_1WPF_4_Evenement_Click\Evenement_Click\obj\Debug\Evenement_Click.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\4_1WPF_4_Evenement_Click\Evenement_Click\obj\Debug\MainWindow.g.cs
+C:\Users\Home\Desktop\4_1WPF_4_Evenement_Click\Evenement_Click\obj\Debug\App.g.cs
+C:\Users\Home\Desktop\4_1WPF_4_Evenement_Click\Evenement_Click\obj\Debug\Evenement_Click_MarkupCompile.cache
+C:\Users\Home\Desktop\4_1WPF_4_Evenement_Click\Evenement_Click\obj\Debug\Evenement_Click_MarkupCompile.lref
+C:\Users\Home\Desktop\4_1WPF_4_Evenement_Click\Evenement_Click\obj\Debug\MainWindow.baml
+C:\Users\Home\Desktop\4_1WPF_4_Evenement_Click\Evenement_Click\obj\Debug\Evenement_Click.g.resources
+C:\Users\Home\Desktop\4_1WPF_4_Evenement_Click\Evenement_Click\obj\Debug\Evenement_Click.Properties.Resources.resources
+C:\Users\Home\Desktop\4_1WPF_4_Evenement_Click\Evenement_Click\obj\Debug\Evenement_Click.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\4_1WPF_4_Evenement_Click\Evenement_Click\obj\Debug\Evenement_Click.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\4_1WPF_4_Evenement_Click\Evenement_Click\obj\Debug\Evenement_Click.exe
+C:\Users\Home\Desktop\4_1WPF_4_Evenement_Click\Evenement_Click\obj\Debug\Evenement_Click.pdb

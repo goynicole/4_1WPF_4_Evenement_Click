@@ -1,5 +1,5 @@
 ﻿# Découverte du WPF  
-> La **technologie WPF** (Windows Presention Foundation) permet de faire des **applications graphiques**.  
+> La **technologie WPF** (Windows Presention Foundation) permet de faire des **applications graphiques**. 
 
 
 ## Exercice 4  
